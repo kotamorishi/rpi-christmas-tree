@@ -2,7 +2,7 @@
 Raspberry pi christmas tree for Programming Beginners.
 
 
-You can get PCB at https://www.pcbway.com/project/shareproject/Raspberry_Pi_Christmas_tree.html
+You can get PCB(or gerber files) at https://www.pcbway.com/project/shareproject/Raspberry_Pi_Christmas_tree.html
 
 ![lib directory contents](/board.jpg)
 
