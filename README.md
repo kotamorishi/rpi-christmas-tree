@@ -1,5 +1,8 @@
-# rpi-cristmas-tree
+# Raspberry Pi Christmas tree.
 Raspberry pi christmas tree for Programming Beginners.
+
+
+You can get PCB at https://www.pcbway.com/project/shareproject/Raspberry_Pi_Christmas_tree.html
 
 ![lib directory contents](/board.jpg)
 
