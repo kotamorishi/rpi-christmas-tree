@@ -7,9 +7,6 @@ gpiod_pins = [None] * 30 # gpiod objects
 
 chip = gpiod.chip(0) # 0 chip 
 
-def led_on(pin_number):
-
-
 for pin in leds:
     gpiod_pins.append(chip.get_line(pin))
     config = gpiod.line_request()
