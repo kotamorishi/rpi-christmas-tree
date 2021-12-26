@@ -3,7 +3,7 @@ import sys
 import time
 
 leds = [6, 5, 13, 11, 16, 19, 9, 12, 26]
-gpiod_pins = [None] * 30 # gpiod objects
+gpiod_pins = [] # gpiod objects
 
 chip = gpiod.chip(0) # 0 chip 
 
