@@ -8,7 +8,7 @@ You can get PCB(or gerber files) at https://www.pcbway.com/project/shareproject/
 
 Each LEDs are directly connected to GPIO 6, 5, 13, 11, 16, 19, 9, 12, 26
 
-# Set up cron for Chritmas all the way
+# Set up cron for Christmas all the way
 ```bash
 sudo crontab -e
 ```
